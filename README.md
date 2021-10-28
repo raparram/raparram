@@ -12,7 +12,8 @@ Soy profesional en ingeniería electrónica de la Universidad Nacional de Colomb
 :gear: Python (POO)   
 :gear: Java (POO)   
 :gear: Spring Boot    
-:gear: Maven    
+:gear: Maven   
+:gear: Junit     
 :gear: Hibernate   
 :gear: Thymeleaf     
 :floppy_disk: MySQL   
